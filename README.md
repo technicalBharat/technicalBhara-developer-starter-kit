@@ -39,7 +39,7 @@ Build better. Document smarter. Contribute together.
 <a href="https://www.buymeacoffee.com/technicalBharat">
   <img
     src="https://img.shields.io/badge/Support-TechnicalBharat-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"
-    alt="Support TechnicalBharat"
+    alt="Support Our Mission"
   />
 </a>
 
@@ -70,7 +70,7 @@ Build better. Document smarter. Contribute together.
 <a href="https://www.buymeacoffee.com/technicalBharat">
   <img
     src="https://img.shields.io/badge/Support-TechnicalBharat-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"
-    alt="Support TechnicalBharat"
+    alt="Support Our Mission"
   />
 </a>
 
