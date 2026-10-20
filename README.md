@@ -76,4 +76,3 @@ Build better. Document smarter. Contribute together.
     alt="Support TechnicalBharat"
   />
 </a>
->>>>>>> origin/main
